@@ -4,5 +4,5 @@ Para que el codigo funcione correctamente se deben tener importados correctament
 mysql.connector - Comando para instalarlo en visual studio code: pip install mysql-connector-python
 ------------------------------------------------------------------------------
 tabulate . Comando para instalarlo en visual studio code: pip install tabulate
---------------------------------
+---------------------------------
 os - No necesita ser instalado.
